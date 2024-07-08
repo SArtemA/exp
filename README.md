@@ -10,6 +10,8 @@
 # Courses
 ### Программирование нейронных сетей (ДПО - УрФУ)
 - ссылка на сертификат
+### AI Arrow junior (Sber)
+- ссылка на сертификат
 
 # Study projects
 ### Retinopathy of prematurity (manipulations with dataset, model training)

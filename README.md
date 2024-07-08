@@ -2,7 +2,7 @@
 ### skfo 2024 (whole app)
 - https://github.com/SArtemA/hack_2024
 ### atomick 2024 (model training)
-- ссылку
+- [final presentation](https://docs.google.com/presentation/d/1-NTaia7MFb5pJkFgTn0XUrblAdl7VTQ-fyiH5x10V2k/edit?usp=sharing)
 
 # Courses
 ### Программирование нейронных сетей (ДПО, УрФУ)

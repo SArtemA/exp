@@ -1,4 +1,4 @@
-# HAKATONES (Git repositories)
+# HAKATONES
 (тип задачи; что делал)
 ### skfo 2024 (Backend; base model integration, whole app)
 - https://github.com/SArtemA/hack_2024

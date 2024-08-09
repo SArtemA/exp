@@ -18,9 +18,9 @@
 
 # Study projects
 ### Retinopathy of prematurity (manipulations with dataset, model training)
-- [отчет](https://docs.google.com/document/d/19vfgs_ONlh6rCKf-wGpf6oSeHENjos7Elw2MocMCL_0/edit)
+- [report](https://docs.google.com/document/d/19vfgs_ONlh6rCKf-wGpf6oSeHENjos7Elw2MocMCL_0/edit)
 ### Laboro Tomato based (model training, a bit of backend)
-- [repo](https://github.com/SArtemA/PE_22_team)
+- [repository](https://github.com/SArtemA/PE_22_team)
 
 # Articles
 ### Retinopathy of prematurity

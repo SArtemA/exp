@@ -18,7 +18,7 @@
 
 # Study projects
 ### Retinopathy of prematurity (manipulations with dataset, model training)
-- ссылки на ноуты
+- [отчет](https://docs.google.com/document/d/19vfgs_ONlh6rCKf-wGpf6oSeHENjos7Elw2MocMCL_0/edit)
 
 
 # Articles

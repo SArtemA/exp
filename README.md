@@ -1,6 +1,5 @@
 # HAKATONES
 <!-- (тип задачи; что делал) -->
-
 ### skfo 2024 (Backend; base model integration, whole app)
 - https://github.com/SArtemA/hack_2024
 - [ссылка на сертификат](https://github.com/SArtemA/for_resume/blob/main/skfo_2024.pdf)
@@ -9,7 +8,7 @@
 - [ссылка на сертификат](https://github.com/SArtemA/for_resume/blob/main/Certificate_2024-06-27_06_25_46.366Z.pdf)
 
 # Courses
-(Название (кто проводил))
+<!-- (Название (кто проводил)) -->
 ### Программирование нейронных сетей (ДПО - УрФУ)
 - ссылка на сертификат
 ### Буткемп AI ARROW трек - Junior (Sber)

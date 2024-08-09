@@ -20,6 +20,7 @@
 ### Retinopathy of prematurity (manipulations with dataset, model training)
 - ссылки на ноуты
 
+
 # Articles
 ### Retinopathy of prematurity
 - ссылка на статью

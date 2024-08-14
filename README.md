@@ -23,5 +23,5 @@
 - [repository](https://github.com/SArtemA/PE_22_team)
 
 # Articles
-### Retinopathy of prematurity
+### Retinopathy of prematurity (experimental part: models training and results visualisation)
 - article

@@ -22,7 +22,7 @@
 - [репозиторий](https://github.com/SArtemA/PE_22_team)
 ### AI-Реабилитолог
 - [репозиторий](https://gitverse.ru/kot-kokos/ai-reabilitolog)
-- сертификат
+- [сертификат](https://github.com/SArtemA/exp/blob/main/f7283e47-359f-4644-9827-562155731f4a.pdf)
 ### VitisAI. Определение пригодности земель для виноделия(Бэкэнд, фронтэнд, DS)
 - [репозиторий](https://github.com/SArtemA/vitisai_2sem)
 - сертификат
